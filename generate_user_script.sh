@@ -1,9 +1,9 @@
 #!/bin/bash
 
 (echo '// ==UserScript==' && \
-echo '// @name Code review diff highligher' && \
+echo '// @name Chromium code review diff highligher' && \
 echo '// @namespace chromium-codereview-diff-highligher' && \
-echo '// @description Highlights code review diffs?' && \
+echo '// @description Highlights Chromium code review diffs' && \
 echo '// @match http://codereview.chromium.org/download/issue*' && \
 echo '// @match https://codereview.chromium.org/download/issue*' && \
 echo '// @match http://chromiumcodereview.appspot.com/download/issue*' && \
